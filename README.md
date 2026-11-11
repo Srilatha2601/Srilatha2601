@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Srilatha 👋
 
-<!--
-**Srilatha2601/Srilatha2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+## About Me
+- Interested in Software Development and Full Stack Development.
+- Learning Java, Python, JavaScript and SQL.
+- Interested in building real-world applications.
+- Enjoy solving problems and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Languages: Java, Python, JavaScript
+- Frontend: HTML, CSS
+- Database: MySQL, SQL
+- Tools: Git, GitHub
+
+## Projects
+- Smart Farm Assistant
+- HR Analytics Employee Performance Dashboard
+- Smart Research Notes Manager
+
+## Connect with me
+GitHub: https://github.com/Srilatha2601
